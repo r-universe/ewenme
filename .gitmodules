@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geniusr"]
+	path = geniusr
+	url = https://github.com/ewenme/geniusr
+	shallow = true
+[submodule "ghibli"]
+	path = ghibli
+	url = https://github.com/ewenme/ghibli
+	shallow = true
