@@ -1,0 +1,10 @@
+[
+  {
+    "package": "geniusr",
+    "oncran": true
+  },
+  {
+    "package": "ghibli",
+    "oncran": true
+  }
+]

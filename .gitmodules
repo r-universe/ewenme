@@ -8,10 +8,8 @@
 	url = https://github.com/ewenme/geniusr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ghibli"]
 	path = ghibli
 	url = https://github.com/ewenme/ghibli
 	shallow = true
 	registered = true
-	oncran = true
